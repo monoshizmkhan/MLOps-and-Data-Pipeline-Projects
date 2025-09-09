@@ -1,4 +1,4 @@
-# Boston Toy Projects
+# MLOps and Data Pipeline Projects
 
 This is a collection of toy projects to learn ans showcase usage of several tools including Airflow, MLflow and PySpark.
 
