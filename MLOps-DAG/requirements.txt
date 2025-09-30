@@ -3,4 +3,4 @@ scikit-learn
 tensorflow
 numpy
 mlflow
-pyspark
+apache-airflow
