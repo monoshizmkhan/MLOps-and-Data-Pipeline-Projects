@@ -1,6 +1,6 @@
 # MLOps and Data Pipeline Projects
 
-This is a collection of toy projects to learn and showcase usage of several tools including Airflow, MLflow, PySpark, Docker.
+This is a collection of toy projects to learn and showcase usage of several tools including Airflow, MLflow, PySpark, Docker. Kubernetes is the planned as the next tool to be showcased here using these projects.
 
 The dataset used is a Boston housing dataset. This project mainly consists of two separate experiments. The first experiment consists of two tasks in a DAG. The first task loads, processes and splits the data. The second task trains a simple tensorflow model on the data as a regression task and evaluates the performance. Also using MLflow to keep track of hyperparameters and results. Run Boston_DAG.py to run this experiment.
 
