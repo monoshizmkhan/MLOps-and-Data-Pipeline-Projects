@@ -1,6 +1,6 @@
 # MLOps and Data Pipeline Projects
 
-This is a collection of toy projects to learn and showcase usage of several tools including Airflow, MLflow, PySpark, Docker. Kubernetes is the planned as the next tool to be showcased here using these projects.
+This is a collection of toy projects to learn and showcase usage of several tools including Airflow, MLflow, PySpark, Docker.
 
 The dataset used is a Boston housing dataset. This project mainly consists of two separate experiments.
 
